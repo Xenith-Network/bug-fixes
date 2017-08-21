@@ -1,3 +1,3 @@
 # Xenith Bug-List
 
-Displays known issues and solved issues.
+Displays known / solved issues.
