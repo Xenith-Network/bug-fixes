@@ -1,8 +1,8 @@
-## Bug List
+# Bug List
 
 This will display all known / current bugs. 
 
-# Format
+Format
 > Issue (Server)
 
 
